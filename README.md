@@ -1,7 +1,7 @@
 # Horse-System-for-SA-MP-Servers-by-Aristarh-Ucolov-SA-MP-
 
 == ENG 
-Hello everyone, Aristarkh Ukolov is with you.
+Hello everyone, Aristarh Ucolov is with you.
 And I want to provide you with my old horse system script. I sold this system to many projects, especially projects based on the Wild West.
 I decided to put it on GitHub, since Forum.SAMP closed a long time ago and only a thread from the archive remained.
 I’ll just give you my old script to all of you.
