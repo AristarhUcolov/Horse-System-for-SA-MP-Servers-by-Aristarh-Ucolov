@@ -12,7 +12,7 @@ I decided to **put it on GitHub**, **since Forum.SAMP closed a long time ago and
 ![image](https://github.com/AristarhUcolov/Horse-System-for-SA-MP-Servers-by-Aristarh-Ucolov-SA-MP-/assets/56760026/416fcd4e-63db-43ea-aa9f-19bae7b5a549)
 
 
-Link from archive: https://sampforum.blast.hk/showthread.php?tid=677383&pid=4155030
+### Link from archive: https://sampforum.blast.hk/showthread.php?tid=677383&pid=4155030
 
 # Система лошади для SA:MP Серверов от Аристарх Уколов
 
@@ -27,4 +27,4 @@ Link from archive: https://sampforum.blast.hk/showthread.php?tid=677383&pid=4155
 ![image](https://github.com/AristarhUcolov/Horse-System-for-SA-MP-Servers-by-Aristarh-Ucolov-SA-MP-/assets/56760026/ffdfcb09-d166-4f01-a6d5-b225dab4fbf6)
 ![image](https://github.com/AristarhUcolov/Horse-System-for-SA-MP-Servers-by-Aristarh-Ucolov-SA-MP-/assets/56760026/416fcd4e-63db-43ea-aa9f-19bae7b5a549)
 
-Ссылка из старого архива: https://sampforum.blast.hk/showthread.php?tid=677383&pid=4155030
+### Ссылка из старого архива: https://sampforum.blast.hk/showthread.php?tid=677383&pid=4155030
