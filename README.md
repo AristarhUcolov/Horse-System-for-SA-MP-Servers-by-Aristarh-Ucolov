@@ -1,6 +1,6 @@
 # Horse System for SA MP Servers by Aristarh Ucolov
 
-# == ENG 
+## == ENG 
 **Hello everyone, Aristarh Ucolov is with you.**
 **And I want to provide you with my old horse system script.** **I sold this system to many projects, especially projects based on the Wild West.**
 I decided to **put it on GitHub**, **since Forum.SAMP closed a long time ago and only a thread from the archive remained.**
@@ -16,7 +16,7 @@ I decided to **put it on GitHub**, **since Forum.SAMP closed a long time ago and
 
 # Система лошади для SA:MP Серверов от Аристарх Уколов
 
-# == RU
+## == RU
 **Всем привет, с вами Аристарх Уколов.**
 **И я хочу предоставить вам старый мой скрипт системы лошади.** **Эту систему я продавал многим проектами особенно проектам по мотивам Дикого Запада.**
 Я решил **выставить его на GitHub**, **поскольку Forum.SAMP закрылся очень давно и осталась лишь ветка из архива.**
