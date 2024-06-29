@@ -1,4 +1,4 @@
-# Horse-System-for-SA-MP-Servers-by-Aristarh-Ucolov-SA-MP
+# Horse System for SA MP Servers by Aristarh Ucolov
 
 # == ENG 
 **Hello everyone, Aristarh Ucolov is with you.**
@@ -13,6 +13,8 @@ I decided to **put it on GitHub**, **since Forum.SAMP closed a long time ago and
 
 
 Link from archive: https://sampforum.blast.hk/showthread.php?tid=677383&pid=4155030
+
+# Система лошади для SA:MP Серверов от Аристарх Уколов
 
 # == RU
 **Всем привет, с вами Аристарх Уколов.**
